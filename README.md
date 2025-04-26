@@ -1,5 +1,5 @@
 # webhook-testing
-this repo was created to test webhooks
+    this repo was created to test webhooks
 ## Requirements
-python and requests library installed
+    python and requests library installed.
 
